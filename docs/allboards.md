@@ -8,9 +8,11 @@ Currently I'm learning how to get webpages of apps visible in all web browsers:
 3. Text browsers, like ELinks, w3m.
 3. Legacy browsers, like IE5, Netscape.
 
+
+
 Steps:
 
-1. I converted some Font Awesome icons to PNG at https://fa2png.app
+1. I converted some Font Awesome icons https://fontawesome.com/v4/icons/ to PNG at https://fa2png.app
 2. With GIMP, I converted PNG to GIF. GIF files are smaller than PNG.
 3. I added some of those icons inside of HTML buttons.
 4. I used KompoZer to create UI layout with tables, and then cleaned up that HTML.
